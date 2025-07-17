@@ -23,7 +23,7 @@
 ### 技能演出及UI展示 
 
 <img src="https://github.com/user-attachments/assets/5f3fe860-ce30-4393-96ef-56f52a83168c" width="480"/>
-<img src="https://github.com/user-attachments/assets/e8bca7e3-3707-417f-9238-27b3650fa259" width="450"/>
+<img src="https://github.com/user-attachments/assets/e8bca7e3-3707-417f-9238-27b3650fa259" width="480"/>
 
 ### 技能释放及特效展示
 
